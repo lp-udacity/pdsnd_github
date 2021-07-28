@@ -1,3 +1,5 @@
+#Welcome to the bike share python code!
+
 import time
 import pandas as pd
 import numpy as np
