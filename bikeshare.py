@@ -165,6 +165,7 @@ def user_stats(df):
 
 """
 Raw data is displayed upon request by the user in this manner: Script should prompt the user if they want to see 5 lines of raw data, display that data if the answer is 'yes', and continue these prompts and displays until the user says 'no'.
+Rmember to call raw_data in def main() section.
 """
 def raw_data(df):
     raw_data = input('Would ypu like to see the bike share raw data? (yes or no)\n').lower()
