@@ -10,6 +10,7 @@ Udacity Bike Share Git Project
 
 ### Description
 Describe what your project is about and what it does
+The bikeshare.py code pulls data from multiple .csv files to answer questions about the bike share program. 
 
 ### Files used
 Include the files used
